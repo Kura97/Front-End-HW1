@@ -1,5 +1,9 @@
 # HTML-CSS-HW
 
+## OUTPUT:
+![Alt Text](https://i.imgur.com/zm8zMkJ.gif)
+
+
 ## Expected results:
 
 
